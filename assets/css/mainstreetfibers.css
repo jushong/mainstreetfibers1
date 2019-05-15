@@ -1,1 +1,41 @@
+.title {
+    color:#108E41;
+}
 
+nav .navbar-nav li a{
+    color:black !important;
+}
+
+nav .navbar-nav li a:hover{
+    color:white !important;
+    text-decoration: underline;
+}
+
+.margin {
+    margin-left:20px;
+}
+
+.margintop {
+    margin-top:40px;
+    margin-bottom:30px;
+}
+
+.marginheader {
+    margin-top:50px;
+    margin-bottom:50px;
+}
+
+.marginbottom{
+    margin-bottom:150px;
+}
+
+.orange {
+    background-color:#FF8022;
+    text-align:center;
+    position: relative;
+    width:100%;
+}
+
+.homeimg{
+    width:100%;
+}
